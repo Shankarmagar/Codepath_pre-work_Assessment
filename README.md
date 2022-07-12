@@ -1,5 +1,3 @@
-# Codepath_pre-work_Assessment
-Pre-work assignment
 ## Greeting App
 by Shankar Ale Magar
 
@@ -7,7 +5,8 @@ by Shankar Ale Magar
 This app greet users and ask users to change background-color, change string and change text color
 
 ### App Walk-though
-![](https://i.imgur.com/C3bt5X9.gif)
+
+![](https://i.imgur.com/G6EEtgB.gif)
 
 
 
